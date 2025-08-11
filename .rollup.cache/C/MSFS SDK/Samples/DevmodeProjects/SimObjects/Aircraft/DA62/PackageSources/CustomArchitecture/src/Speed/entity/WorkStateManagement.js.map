@@ -1,1 +1,0 @@
-{"version":3,"file":"WorkStateManagement.js","sourceRoot":"","sources":["WorkStateManagement.ts"],"names":[],"mappings":"","sourcesContent":["export interface WorkState {\r\n    isWorking: boolean;\r\n    setIsWorking(value: boolean): void;\r\n    getIsWorking(): boolean;\r\n}\r\n"]}
